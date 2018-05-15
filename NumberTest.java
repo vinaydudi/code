@@ -11,7 +11,7 @@ public class NumberTest {
         else if(num<0)
             System.out.println("Negative");
         else
-            System.out.println("Zeri");
+            System.out.println("Zero");
 
     }
 
