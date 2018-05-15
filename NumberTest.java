@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class NumberTest {
     public static void main(String[] args) {
+        System.out.println("Enter a number");
         Scanner sc = new Scanner(System.in);
         Long num = Long.parseLong(sc.next());
 
